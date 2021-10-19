@@ -21,7 +21,7 @@
                                 <color key="backgroundColor" systemColor="systemIndigoColor"/>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="byC-ak-b2X">
-                                <rect key="frame" x="20" y="945" width="374" height="379"/>
+                                <rect key="frame" x="20" y="463" width="374" height="379"/>
                                 <color key="backgroundColor" systemColor="systemOrangeColor"/>
                             </view>
                         </subviews>
